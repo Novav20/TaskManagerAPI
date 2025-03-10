@@ -32,7 +32,7 @@ TaskManager/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/TaskManagerAPI.git
+git clone https://github.com/Novav20/TaskManagerAPI.git
 cd TaskManagerAPI
 ```
 
