@@ -136,5 +136,5 @@ This project is **MIT Licensed**. Feel free to use and modify it.
 ---
 
 ## ✉️ Contact
-For any issues or suggestions, open an [issue](https://github.com/YOUR_USERNAME/TaskManagerAPI/issues) or reach out!
+For any issues or suggestions, open an [issue](https://github.com/Novav20/TaskManagerAPI/issues) or reach out!
 
